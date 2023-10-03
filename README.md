@@ -12,9 +12,6 @@ This application allows you to visualize the meteorological data recorded during
 source("app.R") 
 ```
 
-### How to cite: 
-Pérez-Luque, AJ; Tognetti Barbieri, MJ; Ramos-Font, ME & Robles Cruz AB. (2023). Visualization of Weather Conditions during UAV (Drone) Flights. Versión 0.1. https://github.com/serpam/uav_meteo. doi: [10.5281/zenodo.8402099](https://doi.org/10.5281/zenodo.8402099)
-
 
 ### SERPAM-EEZ team: 
 
@@ -23,9 +20,26 @@ Pérez-Luque, AJ; Tognetti Barbieri, MJ; Ramos-Font, ME & Robles Cruz AB. (2023)
 -   **Mauro J. Tognetti Barbieri** 
 - [**Antonio J. Pérez-Luque**](https://github.com/ajpelu) <a href="https://orcid.org/0000-0002-1747-0469" target="orcid.widget"> <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID logo" width="16" height="16"/></a> 
 
-### Author: 
+### Developer: 
 - [**Antonio J. Pérez-Luque**](https://github.com/ajpelu) <a href="https://orcid.org/0000-0002-1747-0469" target="orcid.widget"> <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID logo" width="16" height="16"/></a> 
 
 ### Project
 * MICINN through European Regional Development Fund *SUMHAL, LIFEWATCH-2019-09-CSIC-13, POPE 2014-2020*. More info about the [SUMHAL](https://lifewatcheric-sumhal.csic.es/) project (Sustainability for Mediterranean Hotspots in Andalusia integrating LifeWatch ERIC).  
 
+### How to cite: 
+Pérez-Luque, AJ; Tognetti Barbieri, MJ; Ramos-Font, ME & Robles Cruz AB. (2023). Visualization of Weather Conditions during UAV (Drone) Flights. Versión 0.1. https://github.com/serpam/uav_meteo. doi: [10.5281/zenodo.8402099](https://doi.org/10.5281/zenodo.8402099)
+
+
+
+```
+@misc{PerezLuque2023,
+	title        = {Visualization of Weather Conditions during UAV (Drone) Flights},
+	author       = {Pérez-Luque, Antonio Jesús and Toggnetti Barbieri, Mauro José and 
+	                Ramos-Font, Maria Eugenia and Robles Cruz, Ana Belén},
+	year         = {2023},
+	url          = {https://github.com/serpam/uav_meteo},
+	version      = {1.0}
+	doi          = {10.5281/zenodo.8402099}
+}
+
+```

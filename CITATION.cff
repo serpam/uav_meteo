@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Visualization of Weather Conditions during UAV (Drone) Flights
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - orcid: 'https://orcid.org/0000-0002-1747-0469'
+    given-names: Antonio Jesús
+    family-names: Pérez-Luque
+    email: ajpelu@gmail.com
+  - given-names: Mauro José
+    family-names: Toggnetti Barbieri
+  - given-names: Maria Eugenia
+    family-names: Ramos-Font
+  - given-names: Ana Belén
+    family-names: Robles Cruz
+identifiers:
+  - type: url
+    value: 'https://github.com/serpam/uav_meteo'
+repository-code: 'https://github.com/serpam/uav_meteo'
+abstract: >-
+  This application allows you to visualize the meteorological 
+  data recorded during drone flights conducted by SERPAM 
+  (Deparment of Assesment, Restoration and Protection of 
+  Mediterranean Agrosystems) CSIC (EEZ-CSIC). 
+keywords:
+  - UAV
+  - weather conditions
+  - visualization
+license: MIT
+version: '1.0'
+doi: 10.5281/zenodo.8402099
+date-released: '2023-05-06'

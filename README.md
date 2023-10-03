@@ -4,7 +4,7 @@ This application allows you to visualize the meteorological data recorded during
 
 ### How it works?
 
-1. You can run the live app in this [link](https://eez-csic.gvsigonline.com/shiny/uav/)
+1. You can run the live app in this [link](https://eez-csic.gvsigonline.com/shiny/uav_meteo/)
 
 2. You also could donwload the repo here, and run the app inside Rstudio. For this purpose, after the donwload the repository and unzziped it, run the file `app.R` 
 

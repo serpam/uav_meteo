@@ -1,0 +1,14 @@
+name: uav_meteo
+title: uav_meteo
+username:
+account: serpam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9343458
+bundleId: 7371487
+url: https://serpam.shinyapps.io/uav_meteo/
+when: 1687360118.57284
+lastSyncTime: 1687360118.57285
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/WEATHER_-_2719569_14_jun._2023___3_01_13_p._m..csv|data/WEATHER_-_2719569_14_jun._2023___4_20_50_p._m..csv|README.md

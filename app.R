@@ -94,7 +94,8 @@ ui <- fluidPage(
                 tabPanel("Relative Humidty", plotlyOutput("plot_humidity")), 
                 # tabPanel("WindA", plotOutput("plot_windA")), 
                 tabPanel("Wind", plotOutput("plot_wind")),
-                tabPanel("Table", dataTableOutput("table"))
+                tabPanel("Table", dataTableOutput("table")),
+                tabPanel("About", includeMarkdown("about.md"))
         
       )
     )
